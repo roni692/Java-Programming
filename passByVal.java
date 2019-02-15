@@ -19,7 +19,7 @@ public class passByVal
 	public void passThevalueMethod1(Student obj)
 	{
 		//int sId=10;
-		System.out.println("the sId are"+ sId);
+		System.out.println("the sId are"+ obj.studentid);
 	}
 
 }
